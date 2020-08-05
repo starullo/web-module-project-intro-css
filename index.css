@@ -170,3 +170,7 @@ footer div {
     height: 45vh;
     width: 100%;
 }
+
+.strong {
+    font-weight: 700;
+}
